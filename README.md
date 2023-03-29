@@ -12,3 +12,5 @@ Aujourd'hui, nous avons terminé la modélisation d'un système proie-prédateur
 ## 29/03
 influence de la peche : fonctions perturbatrices
 https://who.rocq.inria.fr/Jean.Clairambault/Equations%20de%20Lotka%20Volterra%20et%20quelques%20apparentees.pdf
+## problematique:
+provisoire: Dans quelle mesure les changements climatiques perturbent-ils la stabilité des systèmes proies-prédateurs ?
