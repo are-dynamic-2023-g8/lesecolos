@@ -10,7 +10,9 @@
 Aujourd'hui, nous avons terminé la modélisation d'un système proie-prédateur stable, en identifiant les bonnes valeurs de paramètres, en faisant ainsi varier les populations selon ces paramètres, et en modélisant les variations des effectifs de population à l'aide de graphiques.Pour la prochaine séance, il nous faudra réfléchir à comment introduire une perturbation dans un ecosystème stable.
 
 ## 29/03
-influence de la peche : fonctions perturbatrices
+fonctions perturbatrices : 1\ influence de la peche
 https://who.rocq.inria.fr/Jean.Clairambault/Equations%20de%20Lotka%20Volterra%20et%20quelques%20apparentees.pdf
+2\ influence des épidémies 
+http://gestion.coursgratuits.net/demographie/propagation-des-epedimies.php
 ## problematique:
 provisoire: Dans quelle mesure les changements climatiques perturbent-ils la stabilité des systèmes proies-prédateurs ?
