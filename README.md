@@ -14,5 +14,6 @@ fonctions perturbatrices : 1\ influence de la peche
 https://who.rocq.inria.fr/Jean.Clairambault/Equations%20de%20Lotka%20Volterra%20et%20quelques%20apparentees.pdf
 2\ influence des épidémies 
 http://gestion.coursgratuits.net/demographie/propagation-des-epedimies.php
+3\ https://github.com/yoavram/SciComPy/blob/master/notebooks/lotka-volterra.ipynb
 ## problematique:
 provisoire: Dans quelle mesure les changements climatiques perturbent-ils la stabilité des systèmes proies-prédateurs ?
