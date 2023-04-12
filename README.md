@@ -17,3 +17,9 @@ http://gestion.coursgratuits.net/demographie/propagation-des-epedimies.php
 3\ https://github.com/yoavram/SciComPy/blob/master/notebooks/lotka-volterra.ipynb
 ## problematique:
 provisoire: Dans quelle mesure les changements climatiques perturbent-ils la stabilité des systèmes proies-prédateurs ?
+
+## 05/04
+Au cours de cette séance, nous avons généralisé les équations du modèle en ajoutant une espèce invasive au modèle. L'espèce introduite est prédatrice de deux espèces du modèle initial à différents degrés. Nous avons modélisé l'évolution et l'équilibre du système à trois espèces en faisant varier le taux de prédation du prédateur introduit sur la proie et sur le prédateur originel.
+
+## 12/04
+Au corus de la séa
