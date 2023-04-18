@@ -1,6 +1,7 @@
 <h1 style="text-align: center;">Dynamique proie-prédateur</h1>
 <h2 style="text-align: center;">Étude et modélisation numérique d'un système de Lotka-Volterra</h2>
 
+https://htmlpreview.github.io/?https://github.com/are-dynamic-2023-g8/lesecolos/blob/main/html1.html
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;La dynamique des populations est une branche de l’écologie mathématique qui s’intéresse  aux variations d’une population dans un milieu donné.  De nos jours, la surexploitation des ressources animales et halieutiques entraîne la raréfaction des espèces et mettent péril les écosystèmes. Ce domaine des sciences est donc crucial à la préservation de la faune et de la flore.
 
