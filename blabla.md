@@ -164,5 +164,9 @@ Dispersal ». Journal de Mathématiques Pures et Appliquées, vol. 170, février
 6) Yoav, Ram. « Lotka-Volterra equations: deterministic continuous time models / Scientific Compu-
 ting with Python ». https://github.com/yoavram/SciComPy/blob/master/notebooks/lotka-volterra.ipynb
 
+---
+
 ## Carnet de Bord
 Lien vers notre canet de bord : [Carnet de bord](https://github.com/are-dynamic-2023-g8/lesecolos/blob/main/README.md)
+
+---
