@@ -66,7 +66,7 @@ La densité de proie atteind un maximum, puis diminue à mesure que la populatio
 
 L'interaction cyclique entre la population de proies et la population de prédateurs est représentée par cette boucle, dans l'état de phase. 
 
-![Alt text](graphe2.png)
+![graphe2](https://github.com/are-dynamic-2023-g8/lesecolos/blob/main/graphes/graphe2.png)
 
 ---
 
@@ -101,18 +101,18 @@ $$
 
 En supposant que l'espèce introduite prédate à la même échelle les deux espèces autochtones, on obtient une évolution périodique des densités de population des trois espèces analogue au premier modèle.
 
-![Alt text](graphe3.png)
+![graphe3](https://github.com/are-dynamic-2023-g8/lesecolos/blob/main/graphes/graphe3.png)
 
 
 En revanche, en modifiant les paramètres initiaux du système et en particulier le taux de prédation de l'espèce invasive sur chacune des deux espèces autochtones, on remarque que les conséquences sur les densités de population de chaque espèce sont drastiquement différentes.
 
-Dans le cas ou l'espèce invasive à un fort taux de prédation de l'espèce prédatrice autochtone comparativement à son taux de prédation pour la proie autochtone, la population de prédateur diminue ce qui entraîne une prolifération de la proie autochtone qui n'est plus régulée par son prédateur naturel. Dans le cas ou le taux de prédation de l'espèce invasive sur la proie autochtone est nul, la population de proie autochtone croît de manière exponentielle. L'espèce proie autochtone peut devenir à son tour une espèce invasive et mettre en péril d'autres écosystèmes, les activités de l'Homme ou causer un risque sanitaire comme la peste portée par le rat noir envahissant l'Europe au Moyen-Âge, ou le Chikungunya transmis aujourd’hui par le moustique tigre.
+Dans le cas ou l'espèce introduite ne prédate que la proie autochtone, les deux espèces prédatrices entrent en compétition. Lorsque le taux de prédation de l'espèce invasive sur la proie est suffisamment élevé, la population de proie autochtone diminue jusqu'à s'éteindre en raison de la pression de prédation accrue. En l'absence de sa source d'alimentation principale, l'espèce prédatrice n'est plus en mesure de se reproduire de manière viable et s'éteind. L'espèce invasive finira également par s'éteindre en l'absence de proie autochtone.
 
-![Alt text](graphe5.png)
+![graphe4](https://github.com/are-dynamic-2023-g8/lesecolos/blob/main/graphes/graphe4.png)
 
-À l'inverse, si l'espèce introduite ne prédate que la proie autochtone, les deux espèces prédatrices entrent en compétition. Lorsque le taux de prédation de l'espèce invasive sur la proie est suffisamment élevé, la population de proie autochtone diminue jusqu'à s'éteindre en raison de la pression de prédation accrue. En l'absence de sa source d'alimentation principale, l'espèce prédatrice n'est plus en mesure de se reproduire de manière viable et s'éteind. L'espèce invasive finira également par s'éteindre en l'absence de proie autochtone.
+À l'inverse, si l'espèce invasive à un fort taux de prédation de l'espèce prédatrice autochtone comparativement à son taux de prédation sur la proie autochtone, la population de prédateur diminue ce qui entraîne une prolifération de la proie autochtone qui n'est plus régulée par son prédateur naturel. Dans le cas ou le taux de prédation de l'espèce invasive sur la proie autochtone est nul, la population de proie autochtone croît de manière exponentielle. L'espèce proie autochtone peut devenir à son tour une espèce invasive et mettre en péril d'autres écosystèmes, les activités de l'Homme ou causer un risque sanitaire comme la peste portée par le rat noir envahissant l'Europe au Moyen-Âge, ou le Chikungunya transmis aujourd’hui par le moustique tigre.
 
-![Alt text](graphe4.png)
+![[graphe5.png](https://github.com/are-dynamic-2023-g8/lesecolos/blob/main/graphes/graphe5.png)
 
 ---
 
@@ -131,7 +131,7 @@ Il existe malheureusement de nombreux exemples qui démontrent les effets destru
 
 ## Conclusion
 
-En conclusion, nous avons modélisé numériquement les équations représentatives de la dynamique proie-prédateur de Lotka-Volterra en Python 3. Grâce aux bibliothèques graphiques Matplotlib et Plotly, nous avons pu visualiser l'évolution des densités de population de chaque espèce dans le temps. En introduisant une espèce invasive dans notre modèle, nous avons constaté les conséquences destructrices de l'action directe et indirecte de l'Homme sur les écosystèmes.  Des réglementations et accords existent pour faire face.
+&nbsp;&nbsp;&nbsp;&nbsp;En conclusion, nous avons modélisé numériquement les équations représentatives de la dynamique proie-prédateur de Lotka-Volterra en Python 3. Grâce aux bibliothèques graphiques Matplotlib et Plotly, nous avons pu visualiser l'évolution des densités de population de chaque espèce dans le temps. En introduisant une espèce invasive dans notre modèle, nous avons constaté les conséquences destructrices de l'action directe et indirecte de l'Homme sur les écosystèmes.  Des réglementations et accords existent pour faire face.
 Toutefois, leur mise en place reste partielle.
 
 ---
