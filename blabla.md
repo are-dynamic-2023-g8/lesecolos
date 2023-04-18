@@ -13,6 +13,7 @@
 * [Bibliographie](#bibliographie)
 
 ---
+
 ![predateur](https://www.agc3pa02.fr/uploaded/image/pra-dateur.jpg)
 
 
@@ -83,7 +84,9 @@ L'équilibre est atteint lorsque les dérivées de chacune des composantes du sy
 ## Perturbation du modèle : introduction d'une espèce invasive
 
 --- 
+
 <h3 style = "text-align : center;">Qu'est ce qu'une espèce invasive?</h3>
+
 Une espèce invasive est une espèce déplacée de son milieu d'origine et introduite dans un nouvel écosystème. Les espèces invasives prolifèrent souvent au détriment des espèces autochtones de l'écosystème dans lequel elle se sont établies par manque de prédateurs naturels ou de parasites dans ce nouveau milieu. Ceci peut entraîner la supplantation d'une ou de plusieurs espèces autochtones, voire leur extinction.
 
 Sans intervention de l'Homme, ce genre de phénomène est extrêmement rare car l'équilibre entre les espèces d'un écosystème est établi. Depuis le développement de la chasse, l'agriculture et l'élevage et surtout de la mondialisation des échanges, l'Homme est devenu le principal vecteur de déplacements d'espèces. 
@@ -91,6 +94,7 @@ Sans intervention de l'Homme, ce genre de phénomène est extrêmement rare car 
 ---
 
 <h3 style = "text-align : center;">Mise en équation du modèle étendu</h3>
+
 Nous avons étendu les équations du modèle en y ajoutant une espèce invasive :
 
 $$
@@ -121,6 +125,7 @@ Dans le cas ou l'espèce introduite ne prédate que la proie autochtone, les deu
 Dans le modèle à trois espèces, les populations oscillent au tour d'un point d'équilibre instable. Analytiquement, nous savons que l'équilibre est un point col, ce qui explique les variations brusque des densités de population des espèces en fonction des paramètres initiaux
 
 ---
+
 <h3 style = "text-align : center;">Quelques exemples</h3>
 
 Il existe malheureusement de nombreux exemples qui démontrent les effets destructeurs des espèces invasives introduites par l'Homme sur les écosystèmes :
