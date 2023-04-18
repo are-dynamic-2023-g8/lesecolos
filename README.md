@@ -22,4 +22,4 @@ provisoire: Dans quelle mesure les changements climatiques perturbent-ils la sta
 Au cours de cette séance, nous avons généralisé les équations du modèle en ajoutant une espèce invasive au modèle. L'espèce introduite est prédatrice de deux espèces du modèle initial à différents degrés. Nous avons modélisé l'évolution et l'équilibre du système à trois espèces en faisant varier le taux de prédation du prédateur introduit sur la proie et sur le prédateur originel.
 
 ## 12/04
-Au corus de la séa
+Au corus de cette séance, nous avons abordé l'aspect interprétation des résultats de notre modélisation. Nous avons aussi commencé la mise en forme de notre site internet.
