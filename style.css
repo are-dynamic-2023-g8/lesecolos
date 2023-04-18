@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    font-family: system-ui;
+}
+
+.hero { 
+    background-color: #074f57;
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/180/440/40/light-two-africa-zebra-wallpaper-preview.jpg");
+    background-size: cover;
+    background-blend-mode: multiply;
+    color: white;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.container {
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
