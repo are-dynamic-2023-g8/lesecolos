@@ -12,8 +12,8 @@ body {
 img {
   display: block;
   margin: auto;
-  width:100000px;
-  height:100000px;
+  width:500px;
+  height:250px;
 }
 
 /* Set link color and remove underline */
