@@ -148,8 +148,7 @@ Page web (2013) . https://complexe.jimdofree.com/la-th%C3%A9orie-du-chaos/dynami
 lations/programmation-en-python/
 
 2) Slimani, Safia. « Système dynamique stochastique de certains modèles proies-prédateurs et applica-
-tions. ». Systèmes dynamiques [math.DS]. Normandie Université; Université Badji Mokhtar-Annaba,
-2018. Français. ffNNT : 2018NORMR123ff.
+tions. ». Systèmes dynamiques [math.DS]. Normandie Université; Université Badji Mokhtar-Annaba, 2018. Français. ffNNT : 2018NORMR123ff.
 
 3) VIAL, Grégory. « Le système proie-prédateur de Volterra-Lotka ». École normale supérieure de
 Rennes, 18 mars 2011. https://w3.ens-rennes.fr/math/people/gregory.vial/files/cplts/volterra.pdf
@@ -164,3 +163,6 @@ Dispersal ». Journal de Mathématiques Pures et Appliquées, vol. 170, février
 
 6) Yoav, Ram. « Lotka-Volterra equations: deterministic continuous time models / Scientific Compu-
 ting with Python ». https://github.com/yoavram/SciComPy/blob/master/notebooks/lotka-volterra.ipynb
+
+## Carnet de Bord
+Lien vers notre canet de bord : [Carnet de bord](https://github.com/are-dynamic-2023-g8/lesecolos/blob/main/README.md)
