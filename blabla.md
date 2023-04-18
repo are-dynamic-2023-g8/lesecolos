@@ -112,7 +112,7 @@ Dans le cas ou l'espèce introduite ne prédate que la proie autochtone, les deu
 
 À l'inverse, si l'espèce invasive à un fort taux de prédation de l'espèce prédatrice autochtone comparativement à son taux de prédation sur la proie autochtone, la population de prédateur diminue ce qui entraîne une prolifération de la proie autochtone qui n'est plus régulée par son prédateur naturel. Dans le cas ou le taux de prédation de l'espèce invasive sur la proie autochtone est nul, la population de proie autochtone croît de manière exponentielle. L'espèce proie autochtone peut devenir à son tour une espèce invasive et mettre en péril d'autres écosystèmes, les activités de l'Homme ou causer un risque sanitaire comme la peste portée par le rat noir envahissant l'Europe au Moyen-Âge, ou le Chikungunya transmis aujourd’hui par le moustique tigre.
 
-![[graphe5.png](https://github.com/are-dynamic-2023-g8/lesecolos/blob/main/graphes/graphe5.png)
+![graphe5.png](https://github.com/are-dynamic-2023-g8/lesecolos/blob/main/graphes/graphe5.png)
 
 ---
 
