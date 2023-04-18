@@ -16,6 +16,12 @@ img {
   height:250px;
 }
 
+hr{
+  width:1000px;
+  border: 2px solid gray;
+  border-radius: 5px;
+}
+
 /* Set link color and remove underline */
 a {
   color: #0366D6;
