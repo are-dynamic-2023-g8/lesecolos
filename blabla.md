@@ -60,7 +60,7 @@ La deuxième équation modélise l'évolution de la densité du prédateur au co
 
 Ainsi, les densités de population de la proie et du prédateur oscillent périodiquement au cours du temps, comme nous pouvons le voir sur le graphique suivant :
 
-![Alt text](graphe1.png)
+![graphe1](https://github.com/are-dynamic-2023-g8/lesecolos/blob/main/graphes/graphe1.png)
 
 La densité de proie atteind un maximum, puis diminue à mesure que la population prédatrice la chasse, tandis que la densité de population prédatrice augmente en réponse à l'abondance de proies, ce qui conduit à une diminution subséquente de la population de proie. Cela crée un cycle proie-prédateur où les densités de population des deux espèces augmentent et diminuent en phases opposées.
 
