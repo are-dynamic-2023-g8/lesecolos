@@ -123,9 +123,15 @@ Dans le modèle à trois espèces, les populations oscillent au tour d'un point 
 ---
 <h3 style = "text-align : center;">Quelques exemples</h3>
 
-Il existe malheureusement de nombreux exemples qui démontrent les effets destructeurs des espèces invasives introduites par l'Homme sur les écosystèmes : 
+Il existe malheureusement de nombreux exemples qui démontrent les effets destructeurs des espèces invasives introduites par l'Homme sur les écosystèmes :
 
-// citer
+La perche carnivore du Nil, introduite dans les années 1950 pour la pêche dans le lac Victoria, a en quelques décennies fait disparaître ou menacé d'extinction 200 des 300 espèces de petits poissons cichlidés du lac. Comme les cichlidés étaient herbivores, détritivores ou insectivores, l’écosystème entier a été bouleversé. 
+
+<img src = "https://www.guidedesespeces.org/sites/zeevruchtengids.org/files/styles/photo_soort/public/soort/perche%20du%20nil.2.jpg" alt = "perche carnivore">
+
+Ou encore le miconia, un arbre originaire d'Amérique du Sud, apporté accidentellement sur de nombreuses îles du Pacifique dans de la terre « contaminée » et par des engins de chantier, a envahi les deux tiers de Tahiti. Formant des fourrés denses empêchant les autres plantes d'accéder à la lumière, il menace aujourd’hui près de 70 espèces endémiques de l'île française.
+
+<img src ="https://dlnr.hawaii.gov/hisc/files/2013/02/miconia.jpg" alt = "miconia">
 
 ---
 
@@ -137,3 +143,24 @@ Toutefois, leur mise en place reste partielle.
 ---
  
 ## Bibliographie
+1) ROSS, Allan. « Le modèle proie-prédateur de Lotka-Volterra implémenté en Python ».
+Page web (2013) . https://complexe.jimdofree.com/la-th%C3%A9orie-du-chaos/dynamique-des-popu-
+lations/programmation-en-python/
+
+2) Slimani, Safia. « Système dynamique stochastique de certains modèles proies-prédateurs et applica-
+tions. ». Systèmes dynamiques [math.DS]. Normandie Université; Université Badji Mokhtar-Annaba,
+2018. Français. ffNNT : 2018NORMR123ff.
+
+3) VIAL, Grégory. « Le système proie-prédateur de Volterra-Lotka ». École normale supérieure de
+Rennes, 18 mars 2011. https://w3.ens-rennes.fr/math/people/gregory.vial/files/cplts/volterra.pdf
+
+4) Walid, Abid. Analyse de la dynamique de certains modèles proie-prédateur et applications. Mathé-
+matiques générales [math.GM]. Université du Havre; Université de Tunis El Manar, 2016. Français.
+NNT : 2016LEHA0001 . tel-01409769. https://theses.hal.science/tel-01409769
+
+5) Wu, Shi-Liang, et al. « Propagation Dynamics in Periodic Predator-Prey Systems with Nonlocal
+Dispersal ». Journal de Mathématiques Pures et Appliquées, vol. 170, février 2023, p. 57‑95. DOI.org
+(Crossref), https://doi.org/10.1016/j.matpur.2022.12.003.
+
+6) Yoav, Ram. « Lotka-Volterra equations: deterministic continuous time models / Scientific Compu-
+ting with Python ». https://github.com/yoavram/SciComPy/blob/master/notebooks/lotka-volterra.ipynb
