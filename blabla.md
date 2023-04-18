@@ -137,8 +137,10 @@ Ou encore le miconia, un arbre originaire d'Amérique du Sud, apporté accidente
 
 ## Conclusion
 
-&nbsp;&nbsp;&nbsp;&nbsp;En conclusion, nous avons modélisé numériquement les équations représentatives de la dynamique proie-prédateur de Lotka-Volterra en Python 3. Grâce aux bibliothèques graphiques Matplotlib et Plotly, nous avons pu visualiser l'évolution des densités de population de chaque espèce dans le temps. En introduisant une espèce invasive dans notre modèle, nous avons constaté les conséquences destructrices de l'action directe et indirecte de l'Homme sur les écosystèmes.  Des réglementations et accords existent pour faire face.
-Toutefois, leur mise en place reste partielle.
+&nbsp;&nbsp;&nbsp;&nbsp;En conclusion, nous avons modélisé numériquement les équations représentatives de la dynamique proie-prédateur de Lotka-Volterra en Python 3.  
+Grâce aux bibliothèques graphiques Matplotlib et Plotly, nous avons pu visualiser l'évolution des densités de population de chaque espèce dans le temps. 
+En introduisant une espèce invasive dans notre modèle, nous avons constaté les conséquences destructrices de l'action directe et indirecte de l'Homme sur les écosystèmes.  
+Des réglementations et accords existent pour faire face. Toutefois, leur mise en place reste partielle.
 
 ---
  
