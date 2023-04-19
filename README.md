@@ -175,6 +175,6 @@ ting with Python ». https://github.com/yoavram/SciComPy/blob/master/notebooks/l
 ---
 
 ## Carnet de Bord
-Lien vers notre canet de bord : [Carnet de bord](https://github.com/are-dynamic-2023-g8/lesecolos/blob/main/README.md)
+Lien vers notre canet de bord : [Carnet de bord](https://github.com/are-dynamic-2023-g8/lesecolos/blob/main/carnet_de_bord.md)
 
 ---
